@@ -1,23 +1,20 @@
 === Fixed Bottom Message ===
-Contributors: yourname
+Contributors: UmairSDSGit
 Tags: message, notification
-Requires at least: 5.0
+Requires at least: 5.6
 Tested up to: 6.5
 Stable tag: 1.1.0
-
-Displays a simple fixed message at the bottom of your website.
+License: GPL-2.0
+GitHub Plugin URI: https://github.com/UmairSDSGit/fixed-bottom-message
 
 == Description ==
-This plugin adds a fixed message bar at the bottom of every page.
+Now supports automatic updates from GitHub!
 
 == Installation ==
-1. Upload the 'fixed-bottom-message' folder to your /wp-content/plugins/ directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1. Upload plugin to `/wp-content/plugins/`
+2. Activate in WordPress admin
 
 == Changelog ==
 = 1.1.0 =
+* Added GitHub update support
 * Changed message text
-* Code improvements
-
-= 1.0.0 =
-* Initial release
